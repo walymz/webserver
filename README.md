@@ -2,5 +2,5 @@
 
 Este es un servidor Web en node. Para instalarlo, ejecute:
 
-``` rpm start ```
+``` npm install ```
 
